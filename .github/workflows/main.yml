@@ -10,3 +10,4 @@ jobs:
       - uses: ./action-a
         with:
           MY_NAME: "Melchizidek"
+          MY_AGE: "Without father or mother, without genealogy, without beginning of days or end of life."
